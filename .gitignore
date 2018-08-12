@@ -1,0 +1,16 @@
+# Created by .ignore support plugin (hsz.mobi)
+target
+.idea
+*.iml
+zc.yue.iml
+.DS_Store
+**/.sass-cache/
+**/node_modules
+logs
+*.orig
+
+.idea/compiler.xml
+.idea/inspectionProfiles/
+.idea/kafka-learning.iml
+.idea/modules.xml
+.idea/workspace.xml
